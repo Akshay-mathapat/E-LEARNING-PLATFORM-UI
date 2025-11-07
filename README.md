@@ -11,3 +11,5 @@ MOURATIONS: 4 WEEKS
 
 MENTOR: NEELA SANTOSH
 
+OUTPUT:
+<img width="1903" height="967" alt="Image" src="https://github.com/user-attachments/assets/9dcba063-449c-4d2b-b191-1d880dbf7035" />
